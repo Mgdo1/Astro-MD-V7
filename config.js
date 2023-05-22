@@ -9,7 +9,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 ALIVE_MSG: process.env.ALIVE_MSG === undefined ? 'default' : process.env.ALIVE_MSG,
 LANG: process.env.LANG === undefined ? 'EN' : process.env.LANG,
-ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://i.imgur.com/6FxYmG1.jpg' : process.env.ALIVE_LOGO,
+ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://i.ibb.co/p42b4pz/Fubuki-Atsuya.jpg' : process.env.ALIVE_LOGO,
 FOOTER: process.env.FOOTER === undefined ? 'ᴍɢᴅᴀᴅ ʙᴏᴛ' : process.env.FOOTER,
 CAPTION: process.env.CAPTION === undefined ? '*ɢᴇɴᴀʀᴀᴛᴇᴅ ʙʏ мg∂α∂ вσт*' : process.env.CAPTION,
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
